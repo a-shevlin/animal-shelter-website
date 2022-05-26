@@ -1,0 +1,77 @@
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  max-width: 1000px;
+  height: auto;
+  margin: auto;
+  margin-top: 100px;
+  background-color: gold;
+}
+
+.dragon {
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 30px;
+  margin-top: 5px;
+  padding: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+  width: 20%;
+  margin-bottom: 10px;
+  background-color: darkred;
+}
+
+.unicorn {
+  display: inline-block;
+  margin-left: 65px;
+  margin-top: 5px;
+  padding: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+  width: 20%;
+  margin-bottom: 10px;
+  background-color: wheat;
+}
+
+.piranha {
+  display: inline-block;
+  margin-left: 85px;
+  margin-top: 5px;
+  padding: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+  width: 20%;
+  margin-bottom: 10px;
+  background-color: olive;
+}
+.picture {
+  width: 130%;
+  height: auto;
+ }
+
+.container p{
+  color: white;
+  font-family: impact;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+p {
+  text-align: center;
+}
+
+.contact {
+  float: left;
+  background-color: green;
+}
